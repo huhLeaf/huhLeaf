@@ -2,7 +2,7 @@
 
 At **LeafHub**, I create **Discord bots**, build automation tools, and provide essential resources for serious developers and server admins. If you're looking to level up your server, you're in the right place.
 
-![Profile Views](https://komarev.com/ghpvc/?username=huhLeaf&color=purple) ![Followers](https://img.shields.io/github/followers/huhLeaf?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=huhLeaf) ![Followers](https://img.shields.io/github/followers/huhLeaf?style=social)
 
 ---
 
